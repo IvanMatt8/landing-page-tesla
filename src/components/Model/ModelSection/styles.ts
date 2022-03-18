@@ -5,3 +5,6 @@ export const Container = styled.div`
 
   scroll-snap-align: start;
 `;
+
+
+
